@@ -7,8 +7,7 @@
 # Version: 1.0.0
 #
 #
-# Availability: https://github.com/chris-palacios/School-Projects/image_comparison/image_comparison_DP
-#
+# Availability: https://github.com/chris-palacios/School-Projects/tree/main/Image_Comparison
 #
 
 def list_to_bin(arr: list)->str:
